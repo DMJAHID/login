@@ -1,0 +1,33 @@
+body{
+	background: url('./bg.png');
+	background-size: cover;
+	background-repeat: no-repeat;
+	text-align: center;
+}
+.form{
+	margin:238px 100px;
+}
+
+.input{
+	padding: 10px;
+	margin: 10px;
+}
+
+.button{
+	padding: 10px 20px;
+	transition: 0.5s;
+	background: teal;
+	color: white;
+}
+
+.button:hover{
+	
+	background: transparent;
+}
+.text{
+	color: white;
+}
+.link{
+	color: black;
+	margin: 10px;
+}
